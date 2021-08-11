@@ -28,3 +28,5 @@ Swagger UI in "http://localhost:8080/swagger-ui.html"
 - three - to load the status of the game
     - http://localhost:8080/gameapi/{gameId}
 
+
+Note: Web under devleopment
